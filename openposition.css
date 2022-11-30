@@ -1,0 +1,118 @@
+body {
+  background-color: #e1eff8;
+}
+.carer-div {
+  text-align: center;
+  margin-top: 10rem;
+  font-size: 16px;
+  color: #112284;
+  overflow-x: hidden;
+  width: 100%;
+  margin: 0;
+  counter-reset: h2counter;
+  padding: 0;
+}
+
+.carer {
+  padding-top: 0;
+  font-family: "Camphor-W01-Medium";
+  text-align: center;
+  color: #253eb5;
+  font-size: 52px;
+  font-weight: bold;
+  padding-bottom: 90px;
+}
+
+.heading-para-position {
+  color: #253eb5;
+  font-size: 28px;
+
+  line-height: 38px;
+  font-family: "Camphor-W01-Medium";
+  font-weight: bold;
+}
+
+.box-shadow {
+  border-radius: 89px;
+}
+
+.box-shadow-div {
+  padding: 10px 20px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  align-self: center;
+  align-content: center;
+  background-color: #fff;
+}
+
+.button {
+  color: #19e58c;
+  text-decoration: none;
+  margin-right: 2rem;
+  margin-left: 10rem;
+}
+
+.mto-tech {
+  font-size: 18px;
+  line-height: 24px;
+  color: #2253cc;
+  margin-left: 2rem;
+}
+
+.city {
+  color: #74819f;
+  padding-right: 10px;
+}
+
+.box-shadow-img{
+    margin-top: 5rem;
+    margin-bottom: 6rem;
+}
+
+
+
+
+.text-shadow-set{
+margin-top: -28rem;
+padding:10rem;
+display: flex;
+flex-direction: row;
+justify-content: space-around;
+align-content: center;
+align-self: center;
+align-items: center;
+}
+
+
+.shadow-btn-class{
+    color: #001647 !important;
+    background-color: #19E58C;
+    border-radius: 5px;
+    padding: 9px 30px !important;
+    font-weight: 100 !important;
+    border: none;
+    cursor: pointer;
+    font-size: 18px;
+}
+
+
+.open-heading{
+    font-size: 38px;
+    line-height: 36px;
+    color: #fff;
+    font-weight: bold;
+}
+
+
+.open-para{
+    font-size: 16px;
+    line-height: 24px;
+    color: #fff;
+    
+}
+
+.main-open-div-last{
+margin-left: -10rem;
+}
